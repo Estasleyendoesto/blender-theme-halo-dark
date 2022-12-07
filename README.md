@@ -5,5 +5,5 @@ Custom Blender Theme
 
 Installation Dir:
 ```
-C:\Program Files\Blender Foundation\Blender 3.3\3.3\scripts\addons\presets\interface_theme
+C:\Users\[YOUR_USERNAME]\AppData\Roaming\Blender Foundation\Blender\3.3\scripts\presets\interface_theme
 ```
