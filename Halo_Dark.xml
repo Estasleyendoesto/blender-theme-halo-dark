@@ -153,16 +153,16 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors
-            outline="#18191e"
+            outline="#070707"
             inner="#18191eff"
-            inner_sel="#4a3ebbff"
-            item="#15161cff"
+            inner_sel="#1c1e23ff"
+            item="#4a3ebbff"
             text="#bfbfbf"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="-10"
             shadedown="0"
-            roundness="0.25"
+            roundness="0.5"
             >
           </ThemeWidgetColors>
         </wcol_numslider>
@@ -965,8 +965,8 @@
       <ThemeNodeEditor
         grid="#15161c"
         node_selected="#00bdff"
-        node_active="#00ff2f"
-        wire="#1a1a1a"
+        node_active="#5142c6"
+        wire="#1a1a1aff"
         wire_inner="#18191e"
         wire_select="#00bdffb3"
         selected_text="#cccccc"
